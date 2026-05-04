@@ -49,8 +49,8 @@ export const About = () => {
 
             <div className="space-y-4 text-muted-foreground animate-fade-in animation-delay-200">
               <p>
-                I'm a passionate software engineer with over 5 years of
-                experience crafting digital products that make a difference. My
+                I'm a passionate Frontend Developer but a fresher and 
+                crafting digital products that make a difference. My
                 journey started with a curiosity for how things work on the web,
                 and it has evolved into a deep expertise in modern frontend
                 technologies.
@@ -63,7 +63,7 @@ export const About = () => {
               </p>
               <p>
                 When I'm not coding, you'll find me exploring new technologies,
-                contributing to open-source projects, or sharing knowledge with
+                contributing to open-source projects, or consuming knowledge with
                 the developer community.
               </p>
             </div>
